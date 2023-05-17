@@ -49,12 +49,12 @@ python main.py
 
 ### <p style="color:red">NOTE: Instalasi Tanpa GIT</p> Jika kamu **TIDAK** memiliki [GIT](https://git-scm.com/downloads) maka,
 - **Download Manual:**
-[Download MySPAMBot-OTP](https://github.com/Tampilan-Anakk-oon...-.rar) <br>
+[Download Tampilan-Anakk-oon...-](https://github.com/Tampilan-Anakk-oon...-.rar) <br>
 - Extract **Tampilan-Anakk-oon...-.rar**
 - **Buka CMD / Command Prompt (atau terminal VSCode)**
 - **Ketik ini untuk masuk kedalam Folder MySPAMBot-OTP**
 ```sh
-cd MySPAMBot-OTP
+cd Tampilan-Anakk-oon...-
 ```
 - **Jalankan main.py atau Ketik ini di Terminal easyy kok pke tools orang mah wkwkw bisi di takol ku aing siaa :) ( CMD )**
 ```bash
