@@ -1,20 +1,12 @@
-# <a style="font-family:cursive">MySPAMBot-OTP WORK 1000% FOR ID NUMBER!!</a>
-<p align="justify">Anda punya masalah sama bocil di komen? Atau Anda sedang adu bacot sama fans club bola sebelah? <b>Tampilan-Anakk-oon...-</b> solusinya!! <b>Tampilan-Anakk-oon...-</b> adalah sebuah aplikasi prank yang menggunakan sebuah BOT untuk melakukan requests berulang kali sehingga target akan dikirimi pesan OTP bertubi-tubi. Aplikasi ini ditujukan sebagai bahan belajar (Open Source) menggunakan modul Requests dan implementasi HTTPS tools di Python.</p>
+# <a style="font-family:cursive">SPAM OTP HEUH GUYS BISI DI TAKOL KU AING SIAH!!</a>
+<p align="justify">DISCLAIMER EDUCATIONAL PURPOSES ONLY!? Boga masalah jeung atasan manehh sok spam w nomor telpon nya heuh baee internet mah bebass  <b>Tampilan-Anakk-oon...-</b> solusinya!! <b>Tampilan-Anakk-oon...-</b> ini mah cuma buat iseng doang ga bakal sampe black screen kecuali di 50 terminal mah bisa mereun heuhh JAILIN W ATASAN MAH WKWKWK HTTPS tools di Python.</p>
 <br>
 
 # Testimoni 😂😂
 Terdapat Error Handling sehingga ketika di-running bot tetap dapat terus berjalan walaupun ditinggal tidur. 
 <p align="center">
     <br>
-    <a>
-        <img src="https://telegra.ph/file/6a51a8a9776c4d36a406e.png">
-    </a><br>
-    Korban 1<br> <br>
-    <a>
-        <img src="https://telegra.ph/file/517f5077ff6ec3b8da592.png">
-        <img src="https://telegra.ph/file/164309a8ba0868fcce538.png">
-    </a><br>
-    WhatsApp dan SMS    
+     
 </p>
 <br>
 
@@ -25,11 +17,9 @@ Terdapat Error Handling sehingga ketika di-running bot tetap dapat terus berjala
 <br>
 
 
-# v.1.0.7 (**08 Mei 2023**) WORK! ✔️✔️
+# v.1.0.7 (**17 Mei 2023**) WORK! ✔️✔️
 <p align="center">
-    <a>
-        <img src="https://telegra.ph/file/952306ad780313eca5b16.png">
-    </a><br>
+
     Target: <b>Provider IM3</b> 
 </p>
 <br>
